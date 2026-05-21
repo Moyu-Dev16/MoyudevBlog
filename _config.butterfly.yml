@@ -1,0 +1,53 @@
+# Butterfly theme config
+# Docs: https://butterfly.js.org/
+
+menu:
+  首页: / || fas fa-home
+  归档: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  关于: /about/ || fas fa-heart
+
+index_img: false
+default_top_img: false
+archive_img: false
+tag_img: false
+category_img: false
+
+avatar:
+  img:
+  effect: false
+
+social:
+  fab fa-github: https://github.com/Moyu-Dev16 || Github
+
+subtitle:
+  enable: false
+
+post_meta:
+  page:
+    date_type: created
+    date_format: date
+    categories: true
+    tags: false
+    label: true
+  post:
+    date_type: both
+    date_format: date
+    categories: true
+    tags: true
+    label: true
+
+footer:
+  owner:
+    enable: true
+    since: 2026
+  custom_text:
+
+inject:
+  head:
+    # - <meta name="example" content="head inject placeholder">
+    # 后续广告、统计、验证代码可放这里
+  bottom:
+    # - <script src="/js/example.js"></script>
+    # 后续广告 JS、统计 JS 可放这里
