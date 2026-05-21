@@ -4,5 +4,7 @@ db.json
 *.log
 node_modules/
 public/
+tempbook/
+推送笔记.bat
 .deploy*/
 _multiconfig.yml
