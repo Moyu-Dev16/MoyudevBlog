@@ -15,11 +15,25 @@ tag_img: false
 category_img: false
 
 avatar:
-  img:
+  img: /img/avatar.jpg
   effect: false
 
 social:
   fab fa-github: https://github.com/Moyu-Dev16 || Github
+
+aside:
+  enable: true
+  card_author:
+    enable: true
+    description: 技术、与日常折腾
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Github
+      link: https://github.com/Moyu-Dev16
+  card_announcement:
+    enable: true
+    content: 记录技术实践、开发踩坑和一些认真生活的片段。
 
 subtitle:
   enable: false
