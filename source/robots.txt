@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moyudev.dpdns.org/sitemap.xml
+Sitemap: https://moyudev.dpdns.org/baidusitemap.xml
