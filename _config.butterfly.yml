@@ -9,6 +9,7 @@ menu:
   关于: /about/ || fas fa-heart
 
 index_img: /img/site/top-bg.jpg
+index_top_img_height: 520px
 default_top_img: /img/site/top-bg.jpg
 archive_img: /img/site/top-bg.jpg
 tag_img: /img/site/top-bg.jpg
@@ -61,6 +62,7 @@ footer:
 inject:
   head:
     - <meta name="baidu-site-verification" content="codeva-BrFw8rG3Ka" />
+    - <link rel="stylesheet" href="/css/custom.css">
     # - <meta name="example" content="head inject placeholder">
     # 后续广告、统计、验证代码可放这里
   bottom:
