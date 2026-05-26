@@ -82,9 +82,7 @@ npm install hexo-generator-baidu-sitemap --save
 
 不过我当时安装 npm 插件时网络不太顺，所以最后选择自己写了一个 Hexo 生成脚本：
 
-```text
-scripts/seo-sitemap.js
-```
+[seo-sitemap.js](https://github.com/Moyu-Dev16/MoyudevBlog/blob/main/scripts/seo-sitemap.js)
 
 它会在 `hexo generate` 时自动生成：
 
