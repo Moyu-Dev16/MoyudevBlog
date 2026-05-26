@@ -8,11 +8,11 @@ menu:
   分类: /categories/ || fas fa-folder-open
   关于: /about/ || fas fa-heart
 
-index_img: false
-default_top_img: false
-archive_img: false
-tag_img: false
-category_img: false
+index_img: /img/site/top-bg.jpg
+default_top_img: /img/site/top-bg.jpg
+archive_img: /img/site/top-bg.jpg
+tag_img: /img/site/top-bg.jpg
+category_img: /img/site/top-bg.jpg
 
 avatar:
   img: /img/avatar.jpg
