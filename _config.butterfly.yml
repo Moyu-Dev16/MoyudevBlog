@@ -60,6 +60,7 @@ footer:
 
 inject:
   head:
+    - <meta name="baidu-site-verification" content="codeva-BrFw8rG3Ka" />
     # - <meta name="example" content="head inject placeholder">
     # 后续广告、统计、验证代码可放这里
   bottom:
