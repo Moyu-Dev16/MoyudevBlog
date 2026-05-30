@@ -393,4 +393,4 @@ Git 仓库版本控制
 
 如果你也对 AI 自动化、开源项目整理、个人内容工作流这些东西感兴趣，可以关注我的公众号。
 
-![公众号二维码](/img/ai-github-trending-wechat/wechat-qrcode.jpg)
+![公众号二维码](/img/ai-github-trending-wechat/wechat-qrcode.png)
